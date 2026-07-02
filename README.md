@@ -2,8 +2,6 @@
 
 Minimal release of **MEDE-TTA**: Aug-Teacher + Reset + scale-invariant consistency on EndoDAC (DV-LoRA).
 
-Supported benchmarks: **Hamlyn**, **C3VD** only.
-
 ## Setup
 
 ```bash
