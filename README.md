@@ -1,16 +1,18 @@
 # MEDE-TTA: Monocular Endoscopic Depth Estimation via Test-Time Adaptation
 
-Minimal release of **MEDE-TTA**: Aug-Teacher + Reset + scale-invariant consistency on EndoDAC (DV-LoRA).
+Released code of **MEDE-TTA**: **Training-free Zero-shot** Monocular Depth Estimation in **New Endoscopic Environment**.
 
 ## Setup
 
+**Environment**:
 ```bash
 pip install -r requirements.txt
 ```
 
-Checkpoints:
-- `{load_weights_folder}/depth_model.pth`
-- `pretrained_model/depth_anything_vitb14.pth` (if not fully contained in checkpoint)
+**Checkpoints**:
+- Download pretrained weight of EndoDAC trained on SCARED from [their github repo](https://github.com/BeileiCui/EndoDAC), extracting the content to `endodac_base`
+- Download pretrained weight of EndoDAC trained on SimCol from [Google Driver](https://github.com/BeileiCui/EndoDAC), extracting the content to `endodac_col`
+- Download pretrained weight of Depth Anything from [Google Driver](https://drive.google.com/file/d/163ILZcnz_-IUoIgy1UF_r7PAQBqgDbll/view) to `pretrained_model`
 
 ## Evaluation
 
