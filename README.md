@@ -1,4 +1,4 @@
-# MEDE-TTA: Monocular Endoscopic Depth Estimation via Test-Time Adaptation
+# MEDE-TTA: Cross-Scenario Monocular Endoscopic Depth Estimation via Test-Time Adaptation
 
 Released code of **MEDE-TTA**: **Training-free Zero-shot** Monocular Depth Estimation in **New Endoscopic Environment**.
 
