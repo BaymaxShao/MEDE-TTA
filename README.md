@@ -10,8 +10,8 @@ pip install -r requirements.txt
 ```
 
 **Checkpoints**:
-- Download pretrained weight of EndoDAC trained on SCARED from [their github repo](https://github.com/BeileiCui/EndoDAC), extracting the content to `endodac_base`
-- Download pretrained weight of EndoDAC trained on SimCol from [Google Driver](https://github.com/BeileiCui/EndoDAC), extracting the content to `endodac_col`
+- Download pretrained weight of EndoDAC trained on SCARED from [their github repo](https://github.com/BeileiCui/EndoDAC), extracting the content to `logs/endodac_base`
+- Download pretrained weight of EndoDAC trained on SimCol from [Google Driver](https://drive.google.com/file/d/1sVAg_SW4im9dC1ZAkhy3nAZAMw77qWio/view?usp=sharing) to `logs/endodac_col`
 - Download pretrained weight of Depth Anything from [Google Driver](https://drive.google.com/file/d/163ILZcnz_-IUoIgy1UF_r7PAQBqgDbll/view) to `pretrained_model`
 
 ## Evaluation
