@@ -1,6 +1,18 @@
-# MEDE-TTA: Cross-Scenario Monocular Endoscopic Depth Estimation via Test-Time Adaptation
+<div align="center">
+  
+---
+  
+<var>
+<h2> MEDE-TTA: Cross-Scenario Monocular Endoscopic Depth Estimation via Test-Time Adaptation </h2>
+<h4> <a href='https://baymax-shao.netlify.app/'>Liangjing Shao</a> <sup>1,2</sup>, Beilei Cui <sup>1</sup>, Long Bai <sup>1</sup>, Mobarak I. Hoque <sup>3</sup>, Xinrong Chen <sup>1,2</sup> </h4>
+<h5> <sup>1</sup>The Chinese University of Hong Kong &nbsp; <sup>2</sup>Shenzhen Loop Area Institute  &nbsp; <sup>3</sup>University of Manchester</h5>
+<h3> MICCAI 2026 @ SafeSurg Workshop </h3>
+</var> 
+  
+---
+</div>
 
-Released code of **MEDE-TTA**: **Training-free Zero-shot** Monocular Depth Estimation in **New Endoscopic Environment**.
+**Training-free Zero-shot** Monocular Depth Estimation in **New Endoscopic Environment**.
 
 ## Setup
 
